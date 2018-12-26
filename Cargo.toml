@@ -1,0 +1,10 @@
+[package]
+name = "jinglepings"
+version = "0.1.0"
+authors = ["zRedShift <stormrage2007@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lodepng = "2.4"
+tokio = "0.1"
+tokio-ping = "0.2"
