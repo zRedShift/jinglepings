@@ -6,5 +6,6 @@ edition = "2018"
 
 [dependencies]
 lodepng = "2.4"
-tokio = "0.1"
-tokio-ping = "0.2"
+futures = "0.1"
+tokio-core = "0.1"
+tokio-ping = "0.1"
